@@ -114,3 +114,8 @@ MIT License
 
 - **URL:** [https://vercel.com/ramin-edjlal-s-projects/tetra-ecosystem-final/Deb4ZbbEiREe7fNa3fqd3CppweDy](https://vercel.com/ramin-edjlal-s-projects/tetra-ecosystem-final/Deb4ZbbEiREe7fNa3fqd3CppweDy)
 <!-- Trigger deploy: Mon Aug 17 01:49:44 +0330 2026 -->
+
+## 🌐 دیپلوی
+
+- **URL:** [https://tetra-unified-ecosystem.vercel.app](https://tetra-unified-ecosystem.vercel.app)
+- **وضعیت:** ✅ فعال
